@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BharatVarma007
 - 👀 I’m interested in Data Compression and AI
-- 🌱 I am proficient python, C, C++ and java
+- 🌱 I am proficient in python, C, C++ and java
 - 💞️ I’m looking to collaborate on Data Science and AI
   
 
